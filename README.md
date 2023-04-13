@@ -1,4 +1,4 @@
-# Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit
+# Exp-03-Implementation-of-Half-Adder-and-Full-Adder-circuit
 
 # Implementation-of-Half-Adder-and-Full-Adder-circuit
 
@@ -63,14 +63,6 @@ assign carry =((a&b)|(b&c)|(c&a));
 endmodule
 */
 
-# Logic symbol & Truthtable:
-
-# HALF ADDER:
-
-![DE ha3](https://user-images.githubusercontent.com/121418437/230565259-90ee0d0d-dbb0-4d10-b982-6d61042e3086.png)
-
-# FULL ADDER:
-![DE fa3](https://user-images.githubusercontent.com/121418437/230565306-79b848e8-f3f1-4398-b19f-ddd1b17cc2e2.png)
 
 ### Output:
 
